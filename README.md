@@ -5,8 +5,8 @@
 
 
  ### Principais tecnologias
- ![image](https://github.com/guilhermeFrBarros/GuilhermeFrBarros/assets/109106111/905a2813-38ea-4fd2-aa84-1a7ca8142314) 
- ![image](https://github.com/guilhermeFrBarros/GuilhermeFrBarros/assets/109106111/8e960698-2a4c-4509-ae24-ab8600b85813)
+ ![image](https://github.com/guilhermeFrBarros/GuilhermeFrBarros/assets/109106111/905a2813-38ea-4fd2-aa84-1a7ca8142314)                
+ ![image](https://github.com/guilhermeFrBarros/GuilhermeFrBarros/assets/109106111/8e960698-2a4c-4509-ae24-ab8600b85813)                
  ![image](https://github.com/guilhermeFrBarros/GuilhermeFrBarros/assets/109106111/d4bcf42e-6654-48fa-8929-c0f8447894f9) 
 
 
