@@ -2,6 +2,7 @@
 -----
 
 ## Sobre mim:
+
 ### Sou um estudante universitário na UTFPR, em busca de uma vaga de estágio ou júnior em desenvolvimento web. Estudado bastante por conta própria, especialmente a área de backend. Sou apaixonado por Java e tenho como principal stack . Também trabalho com React Js no frontend. Me considero uma pessoa lógica e analítica, adoro resolver problemas. Além disso, Tenho como principal soft skill a  capacidade de aprender. Ademais, meu compromisso com o desenvolvimento contínuo me impulsionam estudar diariamente o campo da programação web. Por fim, prezo sempre por trabalhar cooperando com todos, com grande satisfação em ensinar e aprender.
 ------
 ## Rede Sociais  para contato:
