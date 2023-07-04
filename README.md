@@ -18,7 +18,7 @@
 </div>
 
 ----------------------------------------------------------------------
-![Anurag's ](https://github-readme-stats.vercel.app/api?username=guilhermeFrBarros&show_icons=true&theme=dracula)
+
 
 
  
