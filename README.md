@@ -1,6 +1,6 @@
 ##             <p align="center">        Olá, eu sou o Gulherme Francisco Goveia Barros   </p>
 
-<p align="center">Eu ❤️ Resolva grandes desafios usando tecnologia. <br><br>  Sou um desenvolvedor FullStack apaixonado por Java, com foco em desenvolvimento web backend. Utilizo o framework Spring Boot para criar APIs REST robustas e seguras. Além disso, possuo habilidades em React JS para o desenvolvimento de interfaces de usuário dinâmicas. Sou comprometido, lógico e autodidata, dedicando-me diariamente ao aprimoramento dos meus conhecimentos em programação.</p>&nbsp;
+<p align="center">Eu ❤️ Solucionar grandes problemas usando tecnologia. <br><br>  Sou um desenvolvedor FullStack apaixonado por Java, com foco em desenvolvimento web backend. Utilizo o framework Spring Boot para criar APIs REST robustas e seguras. Além disso, possuo habilidades em React JS para o desenvolvimento de interfaces de usuário dinâmicas. Sou comprometido, lógico e autodidata, dedicando-me diariamente ao aprimoramento dos meus conhecimentos em programação.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=GuilhermeFrBarros&theme=dracula&mode=weekly" />
@@ -21,7 +21,7 @@
   <img align="center" alt="gui-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Gui-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gui-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Gui-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+ <!-- <img align="center" alt="Gui-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg"> -->
    
     
 </div>
