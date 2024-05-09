@@ -1,6 +1,6 @@
 ##             <p align="center">        Olá, eu sou o Gulherme Francisco Goveia Barros   </p>
 
-<p align="center">Eu ❤️ Solucionar grandes problemas usando tecnologia. <br><br>  Sou um desenvolvedor FullStack apaixonado por Java, com foco em desenvolvimento web backend. Utilizo o framework Spring Boot para criar APIs REST robustas e seguras. Além disso, possuo habilidades em React JS para o desenvolvimento de interfaces de usuário dinâmicas. Sou comprometido, lógico e autodidata, dedicando-me diariamente ao aprimoramento dos meus conhecimentos em programação.</p>&nbsp;
+<p align="center">Eu ❤️ Solucionar grandes problemas usando tecnologia. <br><br>  Sou um desenvolvedor FullStack apaixonado por Java, com foco em desenvolvimento web backend. Utilizo o framework Spring Boot para criar APIs REST robustas e seguras. Além disso, possuo habilidades em React JS para o desenvolvimento de interfaces de usuário dinâmicas. Sou comprometido, lógico e autodidata, dedicando-me diariamente ao aprimoramento dos meus conhecimentos em programação. </p>&nbsp; <br> Ademais, tenho uma paixão imensa pelo desenvolvimento backend. Tenho a capacidade de aprender rapidamente qualquer tecnologia relacionada a essa área.
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=GuilhermeFrBarros&theme=dracula&mode=weekly" />
